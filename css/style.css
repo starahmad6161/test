@@ -1,0 +1,15 @@
+.card-img-top img
+{
+    width: 80%;
+}
+.card
+{
+    box-shadow: 0 2px 5px 0px #333;
+}
+
+@media (max-width: 767px) {
+    h2
+    {
+        font-size: 1.5rem !important;
+    }
+}
