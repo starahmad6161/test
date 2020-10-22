@@ -1,15 +1,18 @@
-.card-img-top img
+.title
 {
-    width: 80%;
+    height: 90%;
+    color: #383735;
 }
-.card
+.btn
 {
-    box-shadow: 0 2px 5px 0px #333;
+    height: 10%;
+    background-color: #58a930;
 }
 
-@media (max-width: 767px) {
-    h2
-    {
-        font-size: 1.5rem !important;
-    }
+.popup
+{
+    position: fixed;
+    width: 80%;
+    height: 80%;
+    background-color: #fefaf7;
 }
