@@ -1,18 +1,14 @@
-.title
+.what-we-do
 {
-    height: 90%;
-    color: #383735;
-}
-.btn
-{
-    height: 10%;
-    background-color: #58a930;
+    background-color: #142127;
 }
 
-.popup
+.what-we-do .title
 {
-    position: fixed;
-    width: 80%;
-    height: 80%;
-    background-color: #fefaf7;
+    letter-spacing: -1px;
+} 
+.what-we-do .title .title-inner,
+.what-we-do .learn-more
+{
+    color: #FFDA03;
 }
